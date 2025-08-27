@@ -1,0 +1,8 @@
+[default]
+DB_PATH = "data/parser.db"
+
+[development]
+debug = true
+
+[production]
+debug = false
